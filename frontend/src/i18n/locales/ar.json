@@ -1,0 +1,676 @@
+{
+  "site": {
+    "title": "إيدوليرن",
+    "tagline": "تعلم من أفضل المدربين في العالم",
+    "description": "حول حياتك المهنية مع منصة التعلم الشاملة عبر الإنترنت"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "courses": "الدورات",
+    "categories": "الفئات",
+    "pricing": "الأسعار",
+    "about": "حول",
+    "contact": "اتصل بنا",
+    "dashboard": "لوحة التحكم",
+    "myLearning": "تعلمي",
+    "wishlist": "المفضلة",
+    "cart": "السلة"
+  },
+  "about": {
+    "hero": {
+      "title": "حول إيدوليرن",
+      "subtitle": "تمكين المتعلمين في جميع أنحاء العالم من خلال تقنية التعليم المبتكرة"
+    },
+    "stats": {
+      "students": "الطلاب",
+      "courses": "الدورات",
+      "instructors": "المدربون",
+      "countries": "البلدان"
+    },
+    "mission": {
+      "title": "مهمتنا",
+      "description": "نعتقد أن التعليم يجب أن يكون متاحاً للجميع، في كل مكان. مهمتنا هي كسر الحواجز أمام التعلم وتقديم محتوى تعليمي عالي الجودة للمتعلمين من جميع الخلفيات والمستويات المهارية.",
+      "point1": "ديمقراطية التعليم من خلال جعله متاحاً للجميع",
+      "point2": "تقديم محتوى عالي الجودة من خبراء الصناعة",
+      "point3": "إنشاء تجربة تعلم جذابة وتفاعلية",
+      "visionTitle": "رؤيتنا",
+      "visionDescription": "أن نصبح المنصة الرائدة في العالم للتعليم عبر الإنترنت، وتمكين ملايين المتعلمين من تحقيق أهدافهم وتحويل حياتهم من خلال المعرفة."
+    },
+    "values": {
+      "title": "قيمنا",
+      "subtitle": "المبادئ التي توجه كل ما نقوم به",
+      "quality": {
+        "title": "الجودة أولاً",
+        "description": "نحافظ على أعلى المعايير في محتوى دوراتنا وطرق التوصيل."
+      },
+      "community": {
+        "title": "مدفوع بالمجتمع",
+        "description": "نعزز مجتمع تعلم داعم حيث يمكن للطلاب النمو معاً."
+      },
+      "innovation": {
+        "title": "الابتكار",
+        "description": "نبتكر باستمرار لتقديم أفضل تجربة تعلم ممكنة."
+      },
+      "accessibility": {
+        "title": "إمكانية الوصول",
+        "description": "نضمن أن منصتنا متاحة للمتعلمين من جميع القدرات والخلفيات."
+      }
+    },
+    "team": {
+      "title": "تعرف على فريقنا",
+      "subtitle": "الأفراد المتحمسون وراء نجاح إيدوليرن"
+    },
+    "timeline": {
+      "title": "رحلتنا",
+      "subtitle": "المراحل الرئيسية في نمو وتطور إيدوليرن"
+    },
+    "cta": {
+      "title": "انضم إلى مهمتنا",
+      "subtitle": "كن جزءاً من مستقبل التعليم",
+      "joinUs": "انضم إلينا",
+      "learnMore": "اعرف المزيد"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "تواصل معنا",
+      "subtitle": "نود أن نسمع منك. أرسل لنا رسالة وسنرد عليك في أقرب وقت ممكن."
+    },
+    "form": {
+      "title": "أرسل لنا رسالة",
+      "name": "الاسم",
+      "namePlaceholder": "اسمك الكامل",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "بريدك.الإلكتروني@مثال.com",
+      "subject": "الموضوع",
+      "subjectPlaceholder": "ما هذا الموضوع؟",
+      "message": "الرسالة",
+      "messagePlaceholder": "أخبرنا المزيد عن استفسارك...",
+      "send": "إرسال الرسالة",
+      "success": {
+        "title": "تم إرسال الرسالة!",
+        "message": "شكراً لك على رسالتك. سنرد عليك خلال 24 ساعة."
+      }
+    },
+    "info": {
+      "title": "معلومات الاتصال"
+    },
+    "email": {
+      "title": "البريد الإلكتروني",
+      "description": "support@edulearn.com"
+    },
+    "phone": {
+      "title": "الهاتف",
+      "description": "+1 (555) 123-4567"
+    },
+    "address": {
+      "title": "العنوان",
+      "description": "123 شارع التعلم، مدينة التعليم، EC 12345"
+    },
+    "hours": {
+      "title": "ساعات العمل",
+      "description": "الاثنين - الجمعة: 9:00 صباحاً - 6:00 مساءً بتوقيت شرق الولايات المتحدة"
+    },
+    "support": {
+      "title": "فئات الدعم",
+      "general": {
+        "title": "استفسارات عامة",
+        "description": "أسئلة حول منصتنا أو دوراتنا أو خدماتنا"
+      },
+      "technical": {
+        "title": "الدعم التقني",
+        "description": "مساعدة في مشاكل الحساب أو تسجيل الدخول أو أخطاء المنصة"
+      },
+      "billing": {
+        "title": "الفواتير والمدفوعات",
+        "description": "أسئلة حول الأسعار أو الفواتير أو طرق الدفع"
+      }
+    },
+    "offices": {
+      "title": "مكاتبنا",
+      "subtitle": "زرنا شخصياً في إحدى مواقعنا"
+    }
+  },
+  "wishlist": {
+    "title": "مفضلاتي",
+    "empty": "قائمة المفضلات فارغة",
+    "emptyDescription": "ابدأ في بناء قائمة التعلم المفضلة بإضافة الدورات التي تهتم بها",
+    "browseCourses": "تصفح الدورات",
+    "backToCourses": "العودة للدورات",
+    "allRemoved": "تم إزالة جميع العناصر",
+    "allRemovedDescription": "لقد أزلت جميع العناصر من قائمة المفضلات"
+  },
+  "home": {
+    "hero": {
+      "title": "اكتشف إمكانياتك",
+      "subtitle": "تعلم من خبراء الصناعة وحول حياتك المهنية مع دوراتنا الشاملة عبر الإنترنت",
+      "searchPlaceholder": "ماذا تريد أن تتعلم اليوم؟",
+      "searchButton": "بحث",
+      "studentsCount": "انضم إلى أكثر من 2 مليون طالب حول العالم"
+    },
+    "stats": {
+      "students": "الطلاب",
+      "courses": "الدورات",
+      "instructors": "المدربون",
+      "countries": "البلدان"
+    },
+    "features": {
+      "title": "لماذا تختار إيدوليرن؟",
+      "expertInstructors": "مدربون خبراء",
+      "expertInstructorsDesc": "تعلم من المحترفين ذوي الخبرة الطويلة",
+      "flexibleLearning": "تعلم مرن",
+      "flexibleLearningDesc": "ادرس بالوتيرة الخاصة بك، في أي وقت وأي مكان",
+      "certificate": "شهادات",
+      "certificateDesc": "احصل على شهادات عند الانتهاء",
+      "lifetimeAccess": "وصول مدى الحياة",
+      "lifetimeAccessDesc": "الوصول إلى دوراتك إلى الأبد"
+    },
+    "featured": "الدورات المميزة",
+    "trending": "الأكثر رواجاً",
+    "newReleases": "الإصدارات الجديدة",
+    "categories": "الفئات الشائعة",
+    "testimonials": "ماذا يقول طلابنا",
+    "cta": {
+      "title": "مستعد للبدء في التعلم؟",
+      "subtitle": "انضم إلى آلاف الطلاب الذين يتعلمون بالفعل على إيدوليرن",
+      "button": "ابدأ اليوم"
+    }
+  },
+  "courses": {
+    "title": "جميع الدورات",
+    "searchPlaceholder": "البحث في الدورات...",
+    "filters": {
+      "title": "المرشحات",
+      "category": "الفئة",
+      "level": "المستوى",
+      "price": "السعر",
+      "rating": "التقييم",
+      "language": "اللغة",
+      "duration": "المدة",
+      "clearAll": "مسح الكل"
+    },
+    "categories": "الفئات",
+    "allCategories": "جميع الفئات",
+    "level": "المستوى",
+    "allLevels": "جميع المستويات",
+    "price": "السعر",
+    "allPrices": "جميع الأسعار",
+    "rating": "التقييم",
+    "allRatings": "جميع التقييمات",
+    "duration": "المدة",
+    "allDurations": "جميع المدد",
+    "sort": {
+      "title": "ترتيب حسب",
+      "relevance": "الأكثر صلة",
+      "newest": "الأحدث",
+      "oldest": "الأقدم",
+      "priceLow": "السعر: من الأقل إلى الأعلى",
+      "priceHigh": "السعر: من الأعلى إلى الأقل",
+      "rating": "الأعلى تقييماً",
+      "students": "الأكثر شعبية"
+    },
+    "view": {
+      "grid": "شبكة",
+      "list": "قائمة"
+    },
+    "results": "نتيجة وجدت",
+    "noResults": "لم يتم العثور على دورات",
+    "noResultsDesc": "حاول تعديل معايير البحث أو التصفية",
+    "clearFilters": "مسح جميع المرشحات",
+    "loadMore": "تحميل المزيد من الدورات",
+    "suggestions": "الاقتراحات",
+    "recentSearches": "البحث الأخير",
+    "popularSearches": "البحث الشائع",
+    "categoryLabel": "الفئة:",
+    "levelLabel": "المستوى:",
+    "priceLabel": "السعر:",
+    "ratingLabel": "التقييم:",
+    "durationLabel": "المدة:",
+    "stars": "نجوم"
+  },
+  "course": {
+    "enroll": "سجل الآن",
+    "addToCart": "أضف إلى السلة",
+    "addToWishlist": "أضف إلى المفضلة",
+    "removeFromWishlist": "إزالة من المفضلة",
+    "preview": "معاينة",
+    "share": "مشاركة",
+    "gift": "اهد هذه الدورة",
+    "overview": "نظرة عامة",
+    "curriculum": "المنهج",
+    "instructor": "المدرب",
+    "reviews": "التقييمات",
+    "requirements": "المتطلبات",
+    "description": "الوصف",
+    "whatYouWillLearn": "ماذا ستتعلم",
+    "targetAudience": "لمن هذه الدورة",
+    "certificate": "شهادة الإنجاز",
+    "lifetimeAccess": "وصول مدى الحياة",
+    "mobileAccess": "الوصول عبر الهاتف والتلفاز",
+    "assignments": "الواجبات",
+    "lastUpdated": "آخر تحديث",
+    "studentsEnrolled": "طالب مسجل",
+    "lectures": "محاضرة",
+    "totalTime": "الوقت الإجمالي",
+    "level": "المستوى",
+    "language": "اللغة",
+    "subtitles": "الترجمة"
+  },
+  "auth": {
+    "login": "تسجيل الدخول",
+    "loginSubtitle": "الوصول إلى حسابك",
+    "signupSubtitle": "إنشاء حساب جديد",
+    "orContinueWith": "أو المتابعة عبر",
+    "signup": "إنشاء حساب",
+    "logout": "تسجيل الخروج",
+    "emailPlaceholder": "أدخل بريدك الإلكتروني",
+    "passwordPlaceholder": "أدخل كلمة المرور",
+    "confirmPasswordPlaceholder": "تأكيد كلمة المرور",
+    "firstNamePlaceholder": "أدخل الاسم الأول",
+    "lastNamePlaceholder": "أدخل اسم العائلة",
+    "newToEduLearn": "جديد على EduLearner؟",
+    "createAccount": "إنشاء حساب",
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "rememberMe": "تذكرني",
+    "forgotPassword": "هل نسيت كلمة المرور؟",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "signInWith": "تسجيل الدخول عبر",
+    "signUpWith": "إنشاء حساب عبر",
+    "or": "أو",
+    "terms": "أوافق على شروط الخدمة وسياسة الخصوصية",
+    "loginSuccess": "تم تسجيل الدخول بنجاح!",
+    "signupSuccess": "تم إنشاء الحساب بنجاح!",
+    "logoutSuccess": "تم تسجيل الخروج بنجاح!",
+    "agreeToTerms": "يجب أن توافق على",
+    "marketingConsent": "أوافق على تلقي رسائل تسويقية",
+    "termsOfService": "شروط الخدمة",
+    "signIn": "تسجيل الدخول",
+    "privacyPolicy": "سياسة الخصوصية",
+    "and": "و",
+    "errors": {
+      "invalidEmail": "البريد الإلكتروني غير صالح",
+      "passwordMismatch": "كلمات المرور غير متطابقة",
+      "requiredField": "هذا الحقل مطلوب",
+      "minLength": "يجب أن تكون كلمة المرور على الأقل 6 أحرف",
+      "maxLength": "يجب ألا تتجاوز كلمة المرور 20 حرفاً",
+      "emailExists": "البريد الإلكتروني موجود بالفعل",
+      "userNotFound": "المستخدم غير موجود",
+      "wrongPassword": "كلمة المرور غير صحيحة",
+      "firstNameRequired": "الاسم الأول مطلوب",
+      "lastNameRequired": "اسم العائلة مطلوب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "passwordRequired": "كلمة المرور مطلوبة",
+      "passwordMin": "يجب أن تكون كلمة المرور على الأقل 6 أحرف",
+      "passwordComplex": "يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير ورقم ورمز خاص"
+    }
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحباً بعودتك، {{name}}!",
+    "welcomeSubtitle": "واصل رحلة التعلم الخاصة بك",
+    "overview": "نظرة عامة",
+    "myCourses": "دوراتي",
+    "certificates": "الشهادات",
+    "profile": "الملف الشخصي",
+    "logout": "تسجيل الخروج",
+    "search": "بحث",
+    "coursesEnrolled": "الدورات المسجلة",
+    "hoursLearned": "الساعات المتعلمة",
+    "certificatesEarned": "الشهادات المكتسبة",
+    "avgRating": "متوسط التقييم",
+    "recentCourses": "الدورات الأخيرة",
+    "upcomingDeadlines": "المواعيد النهائية القادمة",
+    "recentActivity": "النشاط الأخير",
+    "quickActions": "الإجراءات السريعة",
+    "noCourses": "لا توجد دورات مسجلة بعد",
+    "noEnrolledCourses": "لا توجد دورات مسجلة",
+    "noEnrolledCoursesDesc": "ابدأ رحلة التعلم الخاصة بك بالتسجيل في دورة",
+    "noCertificates": "لا توجد شهادات بعد",
+    "noCertificatesDesc": "أكمل الدورات للحصول على شهادات",
+    "browseCourses": "تصفح الدورات",
+    "browseMoreCourses": "تصفح المزيد من الدورات",
+    "searchCourses": "البحث في الدورات...",
+    "searchCertificates": "البحث في الشهادات...",
+    "continue": "متابعة",
+    "review": "مراجعة",
+    "progress": "التقدم",
+    "completed": "مكتمل",
+    "complete": "إكمال",
+    "lectures": "محاضرات",
+    "score": "النتيجة",
+    "view": "عرض",
+    "download": "تحميل",
+    "share": "مشاركة",
+    "stats": {
+      "coursesEnrolled": "الدورات المسجلة",
+      "hoursLearned": "الساعات المتعلمة",
+      "certificates": "الشهادات",
+      "avgRating": "متوسط التقييم"
+    },
+    "filters": {
+      "all": "الكل",
+      "inProgress": "قيد التقدم",
+      "completed": "مكتمل",
+      "notStarted": "لم تبدأ",
+      "recent": "الأخيرة",
+      "highScore": "النتيجة العالية"
+    },
+    "actions": {
+      "browseCourses": "تصفح الدورات",
+      "schedule": "الجدولة",
+      "community": "المجتمع",
+      "progress": "التقدم"
+    },
+    "profileSubtitle": "إدارة معلومات ملفك الشخصي",
+    "editProfile": "تعديل الملف الشخصي",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "firstName": "الاسم الأول",
+    "lastName": "اسم العائلة",
+    "email": "البريد الإلكتروني",
+    "phone": "الهاتف",
+    "location": "الموقع",
+    "website": "الموقع الإلكتروني",
+    "bio": "السيرة الذاتية",
+    "personalInformation": "المعلومات الشخصية",
+    "professionalInformation": "المعلومات المهنية",
+    "jobTitle": "المسمى الوظيفي",
+    "company": "الشركة",
+    "education": "التعليم",
+    "graduationYear": "سنة التخرج",
+    "memberSince": "عضو منذ",
+    "settings": {
+      "title": "الإعدادات",
+      "subtitle": "إدارة إعدادات حسابك",
+      "notifications": "الإشعارات",
+      "privacy": "الخصوصية",
+      "appearance": "المظهر",
+      "password": "كلمة المرور",
+      "data": "إدارة البيانات",
+      "emailNotifications": "إشعارات البريد الإلكتروني",
+      "emailNotificationsDesc": "استلام إشعارات البريد الإلكتروني لتحديثات الدورات",
+      "pushNotifications": "الإشعارات الفورية",
+      "pushNotificationsDesc": "استلام الإشعارات الفورية على جهازك",
+      "courseUpdates": "تحديثات الدورات",
+      "courseUpdatesDesc": "الحصول على إشعارات عند تحديث الدورات",
+      "weeklyDigest": "الملخص الأسبوعي",
+      "weeklyDigestDesc": "استلام ملخص أسبوعي لتقدم التعلم الخاص بك",
+      "profileVisibility": "رؤية الملف الشخصي",
+      "public": "عام",
+      "private": "خاص",
+      "friendsOnly": "الأصدقاء فقط",
+      "friends": "الأصدقاء فقط",
+      "showProgress": "إظهار التقدم",
+      "showProgressDesc": "السماح للآخرين برؤية تقدم دوراتك",
+      "showCertificates": "إظهار الشهادات",
+      "showCertificatesDesc": "السماح للآخرين برؤية شهاداتك",
+      "theme": "المظهر",
+      "light": "فاتح",
+      "dark": "داكن",
+      "auto": "تلقائي",
+      "changePassword": "تغيير كلمة المرور",
+      "currentPassword": "كلمة المرور الحالية",
+      "newPassword": "كلمة المرور الجديدة",
+      "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+      "enterCurrentPassword": "أدخل كلمة المرور الحالية",
+      "enterNewPassword": "أدخل كلمة المرور الجديدة",
+      "updatePassword": "تحديث كلمة المرور",
+      "dataManagement": "إدارة البيانات",
+      "exportData": "تصدير البيانات",
+      "exportDataDesc": "تحميل جميع بياناتك في ملف ZIP",
+      "deleteAccount": "حذف الحساب",
+      "deleteAccountDesc": "حذف حسابك وبياناتك نهائياً"
+    },
+    "certificateStats": "إحصائيات الشهادات",
+    "totalCertificates": "إجمالي الشهادات",
+    "averageScore": "متوسط النتيجة",
+    "excellentScores": "النتائج الممتازة"
+  },
+  "pricing": {
+    "title": "اختر خطتك",
+    "subtitle": "ابدأ التعلم اليوم مع خطط الأسعار المرنة",
+    "monthly": "شهري",
+    "yearly": "سنوي",
+    "save": "وفر",
+    "savePercent": "وفر {{percent}}%",
+    "mostPopular": "الأكثر شعبية",
+    "currentPlan": "الخطة الحالية",
+    "whatsIncluded": "ما هو مدرج",
+    "month": "شهر",
+    "year": "سنة",
+    "getStarted": "ابدأ",
+    "signUp": "إنشاء حساب",
+    "basic": {
+      "name": "أساسي",
+      "description": "مثالي للمتعلمين الأفراد",
+      "features": {
+        "access": "الوصول لجميع الدورات",
+        "courses": "1000+ دورة",
+        "certificate": "شهادات الدورات",
+        "support": "دعم المجتمع"
+      },
+      "notIncluded": {
+        "downloads": "لا توجد تحميلات دون اتصال",
+        "priority": "لا يوجد دعم ذو أولوية",
+        "advanced": "لا توجد ميزات متقدمة"
+      }
+    },
+    "pro": {
+      "name": "احترافي",
+      "description": "الأفضل للمتعلمين الجادين",
+      "features": {
+        "everything": "كل شيء في الأساسي",
+        "downloads": "تحميلات دون اتصال",
+        "priority": "دعم ذو أولوية",
+        "advanced": "ميزات متقدمة",
+        "offline": "الوصول دون اتصال",
+        "workshops": "ورش عمل مباشرة"
+      },
+      "notIncluded": {
+        "mentorship": "لا يوجد إرشاد فردي",
+        "custom": "لا توجد مسارات تعلم مخصصة"
+      }
+    },
+    "enterprise": {
+      "name": "المؤسسات",
+      "description": "للفرق والمنظمات",
+      "features": {
+        "everything": "كل شيء في الاحترافي",
+        "mentorship": "إرشاد فردي",
+        "custom": "مسارات تعلم مخصصة",
+        "analytics": "تحليلات متقدمة",
+        "api": "الوصول للـ API",
+        "dedicated": "دعم مخصص"
+      }
+    },
+    "faq": {
+      "title": "الأسئلة الشائعة",
+      "cancel": {
+        "title": "هل يمكنني الإلغاء في أي وقت؟",
+        "answer": "نعم، يمكنك إلغاء اشتراكك في أي وقت. ستستمر في الوصول حتى نهاية فترة الفوترة."
+      },
+      "switch": {
+        "title": "هل يمكنني تغيير الخطط؟",
+        "answer": "بالتأكيد! يمكنك ترقية أو تخفيض خطتك في أي وقت. التغييرات سارية فوراً."
+      },
+      "features": {
+        "title": "ما هي الميزات المدرجة؟",
+        "answer": "جميع الخطط تشمل الوصول لمكتبة الدورات والشهادات ودعم المجتمع. خطط الاحترافي والمؤسسات تشمل ميزات إضافية."
+      },
+      "support": {
+        "title": "ما نوع الدعم الذي تقدمونه؟",
+        "answer": "الخطة الأساسية تشمل دعم المجتمع. خطط الاحترافي والمؤسسات تشمل دعم ذو أولوية ودعم مخصص على التوالي."
+      }
+    },
+    "cta": {
+      "title": "مستعد لبدء التعلم؟",
+      "subtitle": "انضم لآلاف الطلاب الذين يتعلمون بالفعل على إيدوليرن",
+      "startFree": "ابدأ التجربة المجانية",
+      "contactSales": "اتصل بالمبيعات"
+    },
+    "guarantee": "ضمان استرداد الأموال لمدة 30 يوماً"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلة التسوق فارغة",
+    "emptyDescription": "أضف بعض الدورات لبدء رحلة التعلم الخاصة بك",
+    "subtotal": "المجموع الفرعي",
+    "discount": "الخصم",
+    "total": "المجموع",
+    "checkout": "إتمام الشراء",
+    "continueShopping": "مواصلة التسوق",
+    "remove": "إزالة",
+    "applyCoupon": "تطبيق كوبون",
+    "couponCode": "رمز الكوبون",
+    "apply": "تطبيق",
+    "browseCourses": "تصفح الدورات",
+    "backToCourses": "العودة للدورات",
+    "cartItems": "عناصر السلة",
+    "enterCoupon": "أدخل رمز القسيمة",
+    "proceedToCheckout": "المتابعة إلى الدفع",
+    "secureCheckout": "دفع آمن",
+    "orderSummary": "ملخص الطلب"
+  },
+  "actions": {
+    "addToCart": "أضف إلى السلة",
+    "enroll": "سجل الآن",
+    "preview": "معاينة",
+    "share": "مشاركة",
+    "download": "تحميل",
+    "edit": "تعديل",
+    "delete": "حذف",
+    "save": "حفظ",
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "back": "رجوع",
+    "next": "التالي",
+    "previous": "السابق",
+    "submit": "إرسال",
+    "reset": "إعادة تعيين",
+    "close": "إغلاق",
+    "open": "فتح",
+    "search": "بحث",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "view": "عرض",
+    "hide": "إخفاء",
+    "show": "إظهار",
+    "loadMore": "تحميل المزيد",
+    "refresh": "تحديث",
+    "retry": "إعادة المحاولة"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ ما",
+    "success": "نجح!",
+    "warning": "تحذير",
+    "info": "معلومات",
+    "yes": "نعم",
+    "no": "لا",
+    "ok": "موافق",
+    "all": "الكل",
+    "none": "لا شيء",
+    "select": "اختر",
+    "choose": "اختر",
+    "optional": "اختياري",
+    "required": "مطلوب",
+    "free": "مجاني",
+    "paid": "مدفوع",
+    "new": "جديد",
+    "popular": "شائع",
+    "trending": "رائج",
+    "featured": "مميز",
+    "bestseller": "الأكثر مبيعاً",
+    "sale": "تخفيض",
+    "discount": "خصم",
+    "off": "خصم",
+    "from": "من",
+    "to": "إلى",
+    "and": "و",
+    "or": "أو",
+    "with": "مع",
+    "without": "بدون",
+    "per": "لكل",
+    "each": "كل",
+    "total": "المجموع",
+    "average": "المتوسط",
+    "minimum": "الحد الأدنى",
+    "maximum": "الحد الأقصى",
+    "estimated": "مقدر",
+    "approximately": "تقريباً",
+    "about": "حول",
+    "around": "حول",
+    "nearly": "تقريباً",
+    "almost": "تقريباً",
+    "exactly": "بالضبط",
+    "precisely": "بدقة",
+    "currently": "حالياً",
+    "now": "الآن",
+    "today": "اليوم",
+    "yesterday": "أمس",
+    "tomorrow": "غداً",
+    "thisWeek": "هذا الأسبوع",
+    "lastWeek": "الأسبوع الماضي",
+    "nextWeek": "الأسبوع القادم",
+    "thisMonth": "هذا الشهر",
+    "lastMonth": "الشهر الماضي",
+    "nextMonth": "الشهر القادم",
+    "thisYear": "هذا العام",
+    "lastYear": "العام الماضي",
+    "nextYear": "العام القادم"
+  },
+  "categories": {
+    "title": "جميع الفئات",
+    "description": "استكشف مجموعتنا الشاملة من فئات الدورات",
+    "subcategories": "فئات فرعية",
+    "popularCategories": "الفئات الشائعة",
+    "popularDescription": "الفئات الأكثر طلباً من طلابنا",
+    "ctaTitle": "هل أنت مستعد لبدء التعلم؟",
+    "ctaDescription": "اختر فئة وابدأ رحلة التعلم اليوم",
+    "browseAllCourses": "تصفح جميع الدورات",
+    "webDevelopment": "تطوير الويب",
+    "mobileDevelopment": "تطوير الهواتف",
+    "dataScience": "علم البيانات",
+    "artificialIntelligence": "الذكاء الاصطناعي",
+    "machineLearning": "تعلم الآلة",
+    "cybersecurity": "الأمن السيبراني",
+    "cloudComputing": "الحوسبة السحابية",
+    "devops": "DevOps",
+    "database": "قواعد البيانات",
+    "programming": "البرمجة",
+    "design": "التصميم",
+    "business": "الأعمال",
+    "marketing": "التسويق",
+    "finance": "التمويل",
+    "health": "الصحة واللياقة",
+    "music": "الموسيقى",
+    "photography": "التصوير",
+    "lifestyle": "نمط الحياة",
+    "academic": "أكاديمي",
+    "language": "تعلم اللغات"
+  },
+  "levels": {
+    "beginner": "مبتدئ",
+    "intermediate": "متوسط",
+    "advanced": "متقدم",
+    "allLevels": "جميع المستويات"
+  },
+  "languages": {
+    "english": "الإنجليزية",
+    "arabic": "العربية",
+    "spanish": "الإسبانية",
+    "french": "الفرنسية",
+    "german": "الألمانية",
+    "chinese": "الصينية",
+    "japanese": "اليابانية",
+    "korean": "الكورية",
+    "hindi": "الهندية",
+    "portuguese": "البرتغالية"
+  },
+  "loading": "جارٍ التحميل..."
+}

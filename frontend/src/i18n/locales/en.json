@@ -1,0 +1,691 @@
+{
+  "site": {
+    "title": "EduLearn",
+    "tagline": "Learn from the world's best instructors",
+    "description": "Transform your career with our comprehensive online learning platform"
+  },
+  "nav": {
+    "home": "Home",
+    "courses": "Courses",
+    "categories": "Categories",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "myLearning": "My Learning",
+    "wishlist": "Wishlist",
+    "cart": "Cart"
+  },
+  "about": {
+    "hero": {
+      "title": "About EduLearn",
+      "subtitle": "Empowering learners worldwide through innovative education technology"
+    },
+    "stats": {
+      "students": "Students",
+      "courses": "Courses",
+      "instructors": "Instructors",
+      "countries": "Countries"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "We believe that education should be accessible to everyone, everywhere. Our mission is to break down barriers to learning and provide high-quality educational content to learners of all backgrounds and skill levels.",
+      "point1": "Democratize education by making it accessible to everyone",
+      "point2": "Provide high-quality content from industry experts",
+      "point3": "Create an engaging and interactive learning experience",
+      "visionTitle": "Our Vision",
+      "visionDescription": "To become the world's leading platform for online education, empowering millions of learners to achieve their goals and transform their lives through knowledge."
+    },
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "quality": {
+        "title": "Quality First",
+        "description": "We maintain the highest standards in our course content and delivery methods."
+      },
+      "community": {
+        "title": "Community Driven",
+        "description": "We foster a supportive learning community where students can grow together."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We continuously innovate to provide the best learning experience possible."
+      },
+      "accessibility": {
+        "title": "Accessibility",
+        "description": "We ensure our platform is accessible to learners of all abilities and backgrounds."
+      }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "subtitle": "The passionate individuals behind EduLearn's success"
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "subtitle": "Key milestones in EduLearn's growth and development"
+    },
+    "cta": {
+      "title": "Join Our Mission",
+      "subtitle": "Be part of the future of education",
+      "joinUs": "Join Us",
+      "learnMore": "Learn More"
+    }
+  },
+  "contact": {
+    "hero": {
+      "title": "Get in Touch",
+      "subtitle": "We'd love to hear from you. Send us a message and we'll respond as soon as possible."
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "your.email@example.com",
+      "subject": "Subject",
+      "subjectPlaceholder": "What is this about?",
+      "message": "Message",
+      "messagePlaceholder": "Tell us more about your inquiry...",
+      "send": "Send Message",
+      "success": {
+        "title": "Message Sent!",
+        "message": "Thank you for your message. We'll get back to you within 24 hours."
+      }
+    },
+    "info": {
+      "title": "Contact Information"
+    },
+    "email": {
+      "title": "Email",
+      "description": "support@edulearn.com"
+    },
+    "phone": {
+      "title": "Phone",
+      "description": "+1 (555) 123-4567"
+    },
+    "address": {
+      "title": "Address",
+      "description": "123 Learning Street, Education City, EC 12345"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "description": "Monday - Friday: 9:00 AM - 6:00 PM EST"
+    },
+    "support": {
+      "title": "Support Categories",
+      "general": {
+        "title": "General Inquiries",
+        "description": "Questions about our platform, courses, or services"
+      },
+      "technical": {
+        "title": "Technical Support",
+        "description": "Help with account issues, login problems, or platform bugs"
+      },
+      "billing": {
+        "title": "Billing & Payments",
+        "description": "Questions about pricing, invoices, or payment methods"
+      }
+    },
+    "offices": {
+      "title": "Our Offices",
+      "subtitle": "Visit us in person at one of our locations"
+    }
+  },
+  "wishlist": {
+    "title": "My Wishlist",
+    "empty": "Your wishlist is empty",
+    "emptyDescription": "Start building your learning wishlist by adding courses you're interested in",
+    "browseCourses": "Browse Courses",
+    "backToCourses": "Back to Courses",
+    "allRemoved": "All items removed",
+    "allRemovedDescription": "You've removed all items from your wishlist"
+  },
+  "home": {
+    "hero": {
+      "title": "Unlock Your Potential",
+      "subtitle": "Learn from industry experts and transform your career with our comprehensive online courses",
+      "searchPlaceholder": "What do you want to learn today?",
+      "searchButton": "Search",
+      "studentsCount": "Join 2M+ students worldwide"
+    },
+    "stats": {
+      "students": "Students",
+      "courses": "Courses",
+      "instructors": "Instructors",
+      "countries": "Countries"
+    },
+    "features": {
+      "title": "Why Choose EduLearn?",
+      "expertInstructors": "Expert Instructors",
+      "expertInstructorsDesc": "Learn from industry professionals with years of experience",
+      "flexibleLearning": "Flexible Learning",
+      "flexibleLearningDesc": "Study at your own pace, anytime, anywhere",
+      "certificate": "Certificates",
+      "certificateDesc": "Earn certificates upon completion",
+      "lifetimeAccess": "Lifetime Access",
+      "lifetimeAccessDesc": "Access your courses forever"
+    },
+    "featured": "Featured Courses",
+    "trending": "Trending Now",
+    "newReleases": "New Releases",
+    "categories": "Popular Categories",
+    "testimonials": "What Our Students Say",
+    "cta": {
+      "title": "Ready to Start Learning?",
+      "subtitle": "Join thousands of students already learning on EduLearn",
+      "button": "Get Started Today"
+    }
+  },
+ "courses": {
+   "searchPlaceholder": "Search for courses",
+  "filters": {
+    "title": "Filters",
+    "category": "Category",
+    "level": "Level",
+    "price": "Price",
+    "rating": "Rating",
+    "duration": "Duration",
+    "clearAll": "Clear All",
+    "allCategories": "All Categories",
+    "allLevels": "All Levels",
+    "allPrices": "All Prices",
+    "allRatings": "All Ratings",
+    "allDurations": "All Durations",
+    "priceOptions": {
+      "free": "Free",
+      "paid": "Paid",
+      "under50": "Under $50",
+      "50to100": "$50 - $100",
+      "over100": "Over $100"
+    },
+    "durationOptions": {
+      "0to5": "0-5 hours",
+      "5to10": "5-10 hours",
+      "10plus": "10+ hours"
+    },
+    "ratingOptions": {
+      "4": "4 & up",
+      "3": "3 & up",
+      "2": "2 & up",
+      "1": "1 & up"
+    },
+    "loading": "Loading filters...",
+    "searchPlaceholder":  "Search for courses, categories, or instructors"
+  },
+
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "level": "Level",
+    "allLevels": "All Levels",
+    "price": "Price",
+    "allPrices": "All Prices",
+    "rating": "Rating",
+    "allRatings": "All Ratings",
+    "duration": "Duration",
+    "allDurations": "All Durations",
+    "sort": {
+      "title": "Sort by",
+      "relevance": "Relevance",
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "rating": "Highest Rated",
+      "students": "Most Popular"
+    },
+    "view": {
+      "grid": "Grid",
+      "list": "List"
+    },
+    "results": "results found",
+    "noResults": "No courses found",
+    "noResultsDesc": "Try adjusting your search or filter criteria",
+    "clearFilters": "Clear All Filters",
+    "loadMore": "Load More Courses",
+    "suggestions": "Suggestions",
+    "recentSearches": "Recent Searches",
+    "popularSearches": "Popular Searches",
+    "categoryLabel": "Category:",
+    "levelLabel": "Level:",
+    "priceLabel": "Price:",
+    "ratingLabel": "Rating:",
+    "durationLabel": "Duration:",
+    "stars": "stars"
+  },
+  "course": {
+    "tabs": {
+      "overview": "Overview",
+      "curriculum": "Curriculum",
+      "instructor": "Instructor",
+      "reviews": "Reviews",
+      "faqs": "FAQs"
+    },
+    "enroll": "Enroll Now",
+    "addToCart": "Add to Cart",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "preview": "Preview",
+    "share": "Share",
+    "gift": "Gift this course",
+    "overview": "Overview",
+    "curriculum": "Curriculum",
+    "instructor": "Instructor",
+    "reviews": "Reviews",
+    "requirements": "Requirements",
+    "description": "Description",
+    "whatYouWillLearn": "What you'll learn",
+    "targetAudience": "Who this course is for",
+    "certificate": "Certificate of completion",
+    "lifetimeAccess": "Lifetime access",
+    "mobileAccess": "Access on mobile and TV",
+    "assignments": "Assignments",
+    "lastUpdated": "Last updated",
+    "studentsEnrolled": "students enrolled",
+    "lectures": "lectures",
+    "totalTime": "total time",
+    "level": "Level",
+    "language": "Language",
+    "subtitles": "Subtitles"
+  },
+  "auth": {
+    "login": "Login",
+    "loginSubtitle": "Access your account",
+    "signupSubtitle": "Create a new account",
+    "orContinueWith": "Continue with",
+    "signup": "Sign Up",
+    "logout": "Logout",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "firstNamePlaceholder": "Enter your first name",
+    "lastNamePlaceholder": "Enter your last name",
+    "newToEduLearn": "New to EduLearner?",
+    "createAccount": "Create an account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot Password?",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signInWith": "Sign in with",
+    "signUpWith": "Sign up with",
+    "or": "or",
+    "terms": "I agree to the Terms of Service and Privacy Policy",
+    "loginSuccess": "Successfully logged in!",
+    "signupSuccess": "Account created successfully!",
+    "logoutSuccess": "Successfully logged out!",
+    "agreeToTerms": "You must agree to the",
+    "marketingConsent": "I agree to receive marketing communications",
+    "termsOfService": "Terms of Service",
+    "signIn": "Sign In",
+    "privacyPolicy": "Privacy Policy",
+    "and": "and"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome back, {{name}}!",
+    "welcomeSubtitle": "Continue your learning journey",
+    "overview": "Overview",
+    "myCourses": "My Courses",
+    "certificates": "Certificates",
+    "profile": "Profile",
+    "logout": "Logout",
+    "search": "Search",
+    "coursesEnrolled": "Courses Enrolled",
+    "hoursLearned": "Hours Learned",
+    "certificatesEarned": "Certificates Earned",
+    "avgRating": "Average Rating",
+    "recentCourses": "Recent Courses",
+    "upcomingDeadlines": "Upcoming Deadlines",
+    "recentActivity": "Recent Activity",
+    "quickActions": "Quick Actions",
+    "noCourses": "No courses enrolled yet",
+    "noEnrolledCourses": "No enrolled courses",
+    "noEnrolledCoursesDesc": "Start your learning journey by enrolling in a course",
+    "noCertificates": "No certificates yet",
+    "noCertificatesDesc": "Complete courses to earn certificates",
+    "browseCourses": "Browse Courses",
+    "browseMoreCourses": "Browse More Courses",
+    "searchCourses": "Search courses...",
+    "searchCertificates": "Search certificates...",
+    "continue": "Continue",
+    "review": "Review",
+    "progress": "Progress",
+    "completed": "Completed",
+    "complete": "Complete",
+    "lectures": "lectures",
+    "score": "Score",
+    "view": "View",
+    "download": "Download",
+    "share": "Share",
+    "stats": {
+      "coursesEnrolled": "Courses Enrolled",
+      "hoursLearned": "Hours Learned",
+      "certificates": "Certificates",
+      "avgRating": "Average Rating"
+    },
+    "filters": {
+      "all": "All",
+      "inProgress": "In Progress",
+      "completed": "Completed",
+      "notStarted": "Not Started",
+      "recent": "Recent",
+      "highScore": "High Score"
+    },
+    "actions": {
+      "browseCourses": "Browse Courses",
+      "schedule": "Schedule",
+      "community": "Community",
+      "progress": "Progress"
+    },
+    "profileSubtitle": "Manage your profile information",
+    "editProfile": "Edit Profile",
+    "save": "Save",
+    "cancel": "Cancel",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "website": "Website",
+    "bio": "Bio",
+    "personalInformation": "Personal Information",
+    "professionalInformation": "Professional Information",
+    "jobTitle": "Job Title",
+    "company": "Company",
+    "education": "Education",
+    "graduationYear": "Graduation Year",
+    "memberSince": "Member Since",
+    "settings": {
+      "title": "Settings",
+      "subtitle": "Manage your account settings",
+      "notifications": "Notifications",
+      "privacy": "Privacy",
+      "appearance": "Appearance",
+      "password": "Password",
+      "data": "Data Management",
+      "emailNotifications": "Email Notifications",
+      "emailNotificationsDesc": "Receive email notifications for course updates",
+      "pushNotifications": "Push Notifications",
+      "pushNotificationsDesc": "Receive push notifications on your device",
+      "courseUpdates": "Course Updates",
+      "courseUpdatesDesc": "Get notified when courses are updated",
+      "weeklyDigest": "Weekly Digest",
+      "weeklyDigestDesc": "Receive a weekly summary of your learning progress",
+      "profileVisibility": "Profile Visibility",
+      "public": "Public",
+      "private": "Private",
+      "friendsOnly": "Friends Only",
+      "friends": "Friends Only",
+      "showProgress": "Show Progress",
+      "showProgressDesc": "Allow others to see your course progress",
+      "showCertificates": "Show Certificates",
+      "showCertificatesDesc": "Allow others to see your certificates",
+      "theme": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "auto": "Auto",
+      "changePassword": "Change Password",
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "enterCurrentPassword": "Enter current password",
+      "enterNewPassword": "Enter new password",
+      "updatePassword": "Update Password",
+      "dataManagement": "Data Management",
+      "exportData": "Export Data",
+      "exportDataDesc": "Download all your data in a ZIP file",
+      "deleteAccount": "Delete Account",
+      "deleteAccountDesc": "Permanently delete your account and all data"
+    },
+    "certificateStats": "Certificate Statistics",
+    "totalCertificates": "Total Certificates",
+    "averageScore": "Average Score",
+    "excellentScores": "Excellent Scores"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start learning today with our flexible pricing plans",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save",
+    "savePercent": "Save {{percent}}%",
+    "mostPopular": "Most Popular",
+    "currentPlan": "Current Plan",
+    "whatsIncluded": "What's included",
+    "month": "month",
+    "year": "year",
+    "getStarted": "Get Started",
+    "signUp": "Sign Up",
+    "basic": {
+      "name": "Basic",
+      "description": "Perfect for individual learners",
+      "features": {
+        "access": "Access to all courses",
+        "courses": "1000+ courses",
+        "certificate": "Course certificates",
+        "support": "Community support"
+      },
+      "notIncluded": {
+        "downloads": "No offline downloads",
+        "priority": "No priority support",
+        "advanced": "No advanced features"
+      }
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Best for serious learners",
+      "features": {
+        "everything": "Everything in Basic",
+        "downloads": "Offline downloads",
+        "priority": "Priority support",
+        "advanced": "Advanced features",
+        "offline": "Offline access",
+        "workshops": "Live workshops"
+      },
+      "notIncluded": {
+        "mentorship": "No 1-on-1 mentorship",
+        "custom": "No custom learning paths"
+      }
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For teams and organizations",
+      "features": {
+        "everything": "Everything in Pro",
+        "mentorship": "1-on-1 mentorship",
+        "custom": "Custom learning paths",
+        "analytics": "Advanced analytics",
+        "api": "API access",
+        "dedicated": "Dedicated support"
+      }
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "cancel": {
+        "title": "Can I cancel anytime?",
+        "answer": "Yes, you can cancel your subscription at any time. You'll continue to have access until the end of your billing period."
+      },
+      "switch": {
+        "title": "Can I switch plans?",
+        "answer": "Absolutely! You can upgrade or downgrade your plan at any time. Changes take effect immediately."
+      },
+      "features": {
+        "title": "What features are included?",
+        "answer": "All plans include access to our course library, certificates, and community support. Pro and Enterprise plans include additional features."
+      },
+      "support": {
+        "title": "What kind of support do you offer?",
+        "answer": "Basic plan includes community support. Pro and Enterprise plans include priority support and dedicated support respectively."
+      }
+    },
+    "cta": {
+      "title": "Ready to Start Learning?",
+      "subtitle": "Join thousands of students already learning on EduLearn",
+      "startFree": "Start Free Trial",
+      "contactSales": "Contact Sales"
+    },
+    "guarantee": "30-Day Money-Back Guarantee"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "emptyDescription": "Add some courses to get started with your learning journey",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "total": "Total",
+    "checkout": "Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "applyCoupon": "Apply Coupon",
+    "couponCode": "Coupon Code",
+    "apply": "Apply",
+    "browseCourses": "Browse Courses",
+    "backToCourses": "Back to Courses",
+    "cartItems": "Cart Items",
+    "enterCoupon": "Enter your coupon code",
+    "proceedToCheckout": "Proceed to Checkout",
+    "secureCheckout": "Secure Checkout",
+    "orderSummary": "Order Summary"
+  },
+  "actions": {
+    "addToCart": "Add to Cart",
+    "enroll": "Enroll Now",
+    "preview": "Preview",
+    "share": "Share",
+    "download": "Download",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "close": "Close",
+    "open": "Open",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "view": "View",
+    "hide": "Hide",
+    "show": "Show",
+    "loadMore": "Load More",
+    "refresh": "Refresh",
+    "retry": "Retry"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "warning": "Warning",
+    "info": "Information",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "all": "All",
+    "none": "None",
+    "select": "Select",
+    "choose": "Choose",
+    "optional": "Optional",
+    "required": "Required",
+    "free": "Free",
+    "paid": "Paid",
+    "new": "New",
+    "popular": "Popular",
+    "trending": "Trending",
+    "featured": "Featured",
+    "bestseller": "Bestseller",
+    "sale": "Sale",
+    "discount": "Discount",
+    "off": "off",
+    "from": "from",
+    "to": "to",
+    "and": "and",
+    "or": "or",
+    "with": "with",
+    "without": "without",
+    "per": "per",
+    "each": "each",
+    "total": "total",
+    "average": "average",
+    "minimum": "minimum",
+    "maximum": "maximum",
+    "estimated": "estimated",
+    "approximately": "approximately",
+    "about": "about",
+    "around": "around",
+    "nearly": "nearly",
+    "almost": "almost",
+    "exactly": "exactly",
+    "precisely": "precisely",
+    "currently": "currently",
+    "now": "now",
+    "today": "today",
+    "yesterday": "yesterday",
+    "tomorrow": "tomorrow",
+    "thisWeek": "this week",
+    "lastWeek": "last week",
+    "nextWeek": "next week",
+    "thisMonth": "this month",
+    "lastMonth": "last month",
+    "nextMonth": "next month",
+    "thisYear": "this year",
+    "lastYear": "last year",
+    "nextYear": "next year"
+  },
+  "categories": {
+    "title": "All Categories",
+    "description": "Explore our comprehensive collection of course categories",
+    "subcategories": "subcategories",
+    "popularCategories": "Popular Categories",
+    "popularDescription": "Most sought-after categories by our students",
+    "ctaTitle": "Ready to Start Learning?",
+    "ctaDescription": "Choose a category and begin your learning journey today",
+    "browseAllCourses": "Browse All Courses",
+    "webDevelopment": "Web Development",
+    "mobileDevelopment": "Mobile Development",
+    "dataScience": "Data Science",
+    "artificialIntelligence": "Artificial Intelligence",
+    "machineLearning": "Machine Learning",
+    "cybersecurity": "Cybersecurity",
+    "cloudComputing": "Cloud Computing",
+    "devops": "DevOps",
+    "database": "Database",
+    "programming": "Programming",
+    "design": "Design",
+    "business": "Business",
+    "marketing": "Marketing",
+    "finance": "Finance",
+    "health": "Health & Fitness",
+    "music": "Music",
+    "photography": "Photography",
+    "lifestyle": "Lifestyle",
+    "academic": "Academic",
+    "language": "Language Learning"
+  },
+  "levels": {
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced",
+    "allLevels": "All Levels"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic",
+    "spanish": "Spanish",
+    "french": "French",
+    "german": "German",
+    "chinese": "Chinese",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "hindi": "Hindi",
+    "portuguese": "Portuguese"
+  },
+    "loading": "Loading..."
+} 

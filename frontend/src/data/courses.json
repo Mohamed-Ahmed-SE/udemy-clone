@@ -1,0 +1,598 @@
+[
+  {
+    "id": "c1",
+    "title": "React - The Complete Guide 2024",
+    "instructor": "Max Schwarzmüller",
+    "instructorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "category": "Web Development",
+    "subcategory": "Frontend Development",
+    "rating": 4.8,
+    "reviewsCount": 12543,
+    "price": 89.99,
+    "originalPrice": 199.99,
+    "language": "en",
+    "level": "All Levels",
+    "duration": "48.5 hours",
+    "lectures": 520,
+    "studentsEnrolled": 125000,
+    "lastUpdated": "2024-01-15",
+    "image": "/assets/react-course.png",
+    "thumbnail": "/assets/react-course.png",
+    "description": "Learn React from scratch with this comprehensive course. Build real-world applications and master modern React development with hooks, context, and advanced patterns.",
+    "whatYouWillLearn": [
+      "Build powerful, fast, user-friendly and reactive web applications",
+      "Provide amazing user experiences by leveraging the power of JavaScript with ease",
+      "Learn all about React Hooks and React Components",
+      "All core features and concepts you need to know in modern React development",
+      "Project-driven learning with plenty of examples",
+      "All the theory and practical examples and real projects"
+    ],
+    "requirements": [
+      "Basic JavaScript knowledge is required",
+      "Basic HTML and CSS knowledge is required",
+      "NO prior React or any other JS framework experience is required"
+    ],
+    "targetAudience": [
+      "Students who want to learn how to build reactive and fast web apps",
+      "Students who want to learn React from scratch",
+      "Students who want to learn React and build real projects",
+      "Students who want to learn React and get a job as a React developer"
+    ],
+    "curriculum": [
+      {
+        "section": "Getting Started",
+        "lectures": [
+          { "title": "Welcome to the Course", "duration": "2:15", "type": "video" },
+          { "title": "What is React?", "duration": "8:30", "type": "video" },
+          { "title": "Setting Up Your Development Environment", "duration": "12:45", "type": "video" },
+          { "title": "Your First React App", "duration": "15:20", "type": "video" }
+        ]
+      },
+      {
+        "section": "React Basics",
+        "lectures": [
+          { "title": "Components and JSX", "duration": "18:30", "type": "video" },
+          { "title": "Props and State", "duration": "22:15", "type": "video" },
+          { "title": "Event Handling", "duration": "16:45", "type": "video" },
+          { "title": "Conditional Rendering", "duration": "14:20", "type": "video" }
+        ]
+      },
+      {
+        "section": "Advanced React",
+        "lectures": [
+          { "title": "Hooks - useState", "duration": "25:10", "type": "video" },
+          { "title": "Hooks - useEffect", "duration": "28:45", "type": "video" },
+          { "title": "Custom Hooks", "duration": "20:30", "type": "video" },
+          { "title": "Context API", "duration": "32:15", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Assignments",
+      "Closed captions"
+    ],
+    "tags": ["react", "javascript", "frontend", "web development", "hooks", "components"],
+    "isBestseller": true,
+    "isFeatured": true,
+    "isNew": false,
+    "discountPercentage": 55
+  },
+  {
+    "id": "c2",
+    "title": "Python for Data Science and Machine Learning",
+    "instructor": "Dr. Angela Yu",
+    "instructorAvatar": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+    "category": "Data Science",
+    "subcategory": "Machine Learning",
+    "rating": 4.7,
+    "reviewsCount": 8921,
+    "price": 79.99,
+    "originalPrice": 149.99,
+    "language": "en",
+    "level": "Intermediate",
+    "duration": "44.5 hours",
+    "lectures": 380,
+    "studentsEnrolled": 89000,
+    "lastUpdated": "2024-02-10",
+    "image": "/assets/Python-MachineLearning.jpg",
+    "thumbnail": "/assets/Python-MachineLearning.jpg",
+    "description": "Master Python programming and data science with this comprehensive course. Learn pandas, numpy, matplotlib, scikit-learn and build real-world machine learning projects.",
+    "whatYouWillLearn": [
+      "Learn to use Python professionally, learning both Python 2 and Python 3",
+      "Create games with Python, like Tic Tac Toe and Blackjack",
+      "Learn advanced Python features, like the collections module and how to work with timestamps",
+      "Learn to use Object Oriented Programming with classes",
+      "Understand complex topics, like decorators",
+      "Understand how to use both the Jupyter Notebook and create .py files"
+    ],
+    "requirements": [
+      "Access to a computer with an internet connection",
+      "No programming experience needed - I'll teach you everything you need to know",
+      "A Mac or PC computer with access to the internet",
+      "No paid software required - all tools used in this course are free"
+    ],
+    "targetAudience": [
+      "Beginners who have never programmed before",
+      "Programmers switching languages to Python",
+      "Intermediate Python programmers who want to level up their skills",
+      "Anyone who wants to learn to code and build fun games and useful tools"
+    ],
+    "curriculum": [
+      {
+        "section": "Python Fundamentals",
+        "lectures": [
+          { "title": "Introduction to Python", "duration": "10:30", "type": "video" },
+          { "title": "Variables and Data Types", "duration": "15:45", "type": "video" },
+          { "title": "Control Flow", "duration": "20:15", "type": "video" },
+          { "title": "Functions and Modules", "duration": "25:30", "type": "video" }
+        ]
+      },
+      {
+        "section": "Data Science Libraries",
+        "lectures": [
+          { "title": "NumPy Fundamentals", "duration": "18:20", "type": "video" },
+          { "title": "Pandas for Data Manipulation", "duration": "30:45", "type": "video" },
+          { "title": "Matplotlib and Seaborn", "duration": "22:10", "type": "video" },
+          { "title": "Data Visualization Projects", "duration": "35:15", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Assignments",
+      "Closed captions"
+    ],
+    "tags": ["python", "data science", "machine learning", "pandas", "numpy", "matplotlib"],
+    "isBestseller": true,
+    "isFeatured": true,
+    "isNew": false,
+    "discountPercentage": 47
+  },
+  {
+    "id": "c3",
+    "title": "تعلم JavaScript من الصفر إلى الاحتراف",
+    "instructor": "أحمد محمد",
+    "instructorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "category": "Web Development",
+    "subcategory": "Frontend Development",
+    "rating": 4.6,
+    "reviewsCount": 3245,
+    "price": 49.99,
+    "originalPrice": 99.99,
+    "language": "ar",
+    "level": "Beginner",
+    "duration": "35.5 hours",
+    "lectures": 280,
+    "studentsEnrolled": 45000,
+    "lastUpdated": "2024-01-20",
+    "image": "/assets/Javascript-course.jpg",
+    "thumbnail": "/assets/Javascript-course.jpg",
+    "description": "مسار شامل لتعلم JavaScript من الأساسيات إلى المستويات المتقدمة. تعلم البرمجة الكائنية التوجه، ES6+، DOM manipulation والمزيد.",
+    "whatYouWillLearn": [
+      "فهم أساسيات JavaScript والبرمجة",
+      "تعلم البرمجة الكائنية التوجه (OOP)",
+      "إتقان ES6+ والميزات الحديثة",
+      "التعامل مع DOM وبناء تطبيقات تفاعلية",
+      "فهم الـ Promises وAsync/Await",
+      "بناء مشاريع حقيقية"
+    ],
+    "requirements": [
+      "لا تحتاج خبرة برمجية سابقة",
+      "جهاز كمبيوتر مع اتصال بالإنترنت",
+      "الرغبة في التعلم والممارسة"
+    ],
+    "targetAudience": [
+      "المبتدئين في البرمجة",
+      "المطورين الذين يريدون تعلم JavaScript",
+      "طلاب علوم الحاسوب",
+      "أي شخص يريد بناء تطبيقات الويب"
+    ],
+    "curriculum": [
+      {
+        "section": "أساسيات JavaScript",
+        "lectures": [
+          { "title": "مقدمة في JavaScript", "duration": "8:15", "type": "video" },
+          { "title": "المتغيرات وأنواع البيانات", "duration": "12:30", "type": "video" },
+          { "title": "العمليات والمنطق", "duration": "15:45", "type": "video" },
+          { "title": "الدوال والمصفوفات", "duration": "18:20", "type": "video" }
+        ]
+      },
+      {
+        "section": "البرمجة الكائنية التوجه",
+        "lectures": [
+          { "title": "مفاهيم OOP", "duration": "20:10", "type": "video" },
+          { "title": "Classes و Objects", "duration": "25:30", "type": "video" },
+          { "title": "Inheritance و Polymorphism", "duration": "22:15", "type": "video" },
+          { "title": "Encapsulation و Abstraction", "duration": "19:45", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "شهادة إتمام",
+      "وصول مدى الحياة",
+      "الوصول عبر الهاتف والتلفاز",
+      "موارد قابلة للتحميل",
+      "واجبات عملية",
+      "ترجمة عربية"
+    ],
+    "tags": ["javascript", "web development", "frontend", "oop", "es6", "dom"],
+    "isBestseller": false,
+    "isFeatured": true,
+    "isNew": true,
+    "discountPercentage": 50
+  },
+  {
+    "id": "c4",
+    "title": "Complete Web Development Bootcamp 2024",
+    "instructor": "Colt Steele",
+    "instructorAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "category": "Web Development",
+    "subcategory": "Full Stack",
+    "rating": 4.9,
+    "reviewsCount": 15678,
+    "price": 99.99,
+    "originalPrice": 199.99,
+    "language": "en",
+    "level": "All Levels",
+    "duration": "62.5 hours",
+    "lectures": 650,
+    "studentsEnrolled": 180000,
+    "lastUpdated": "2024-03-01",
+    "image": "/assets/Web-development-course.png",
+    "thumbnail": "/assets/Web-development-course.png",
+    "description": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+    "whatYouWillLearn": [
+      "Build 25+ projects including a massive production app called YelpCamp",
+      "Create responsive, accessible, and beautiful layouts",
+      "Build a server from scratch with NodeJS and Express",
+      "Work with NoSQL databases (MongoDB) and SQL databases (PostgreSQL)",
+      "Implement authentication and authorization",
+      "Create a beautiful animated todo list application"
+    ],
+    "requirements": [
+      "No programming experience needed - I'll teach you everything you need to know",
+      "A Mac or PC computer with access to the internet",
+      "No paid software required - all tools used in this course are free",
+      "I'll walk you through, step-by-step how to get all the software installed and set up"
+    ],
+    "targetAudience": [
+      "If you want to learn to code through building fun and useful projects",
+      "If you want to start your own startup by building your own websites",
+      "If you are a complete beginner or want to learn more about web development",
+      "If you want to learn the latest web technologies"
+    ],
+    "curriculum": [
+      {
+        "section": "Frontend Fundamentals",
+        "lectures": [
+          { "title": "HTML Basics", "duration": "45:30", "type": "video" },
+          { "title": "CSS Styling", "duration": "52:15", "type": "video" },
+          { "title": "JavaScript Fundamentals", "duration": "38:45", "type": "video" },
+          { "title": "Responsive Design", "duration": "41:20", "type": "video" }
+        ]
+      },
+      {
+        "section": "Backend Development",
+        "lectures": [
+          { "title": "Node.js Introduction", "duration": "28:30", "type": "video" },
+          { "title": "Express.js Framework", "duration": "35:15", "type": "video" },
+          { "title": "Database Integration", "duration": "42:10", "type": "video" },
+          { "title": "Authentication & Security", "duration": "39:45", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Assignments",
+      "Closed captions"
+    ],
+    "tags": ["web development", "html", "css", "javascript", "nodejs", "mongodb", "fullstack"],
+    "isBestseller": true,
+    "isFeatured": true,
+    "isNew": false,
+    "discountPercentage": 50
+  },
+  {
+    "id": "c5",
+    "title": "UI/UX Design Masterclass",
+    "instructor": "Sarah Johnson",
+    "instructorAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "category": "Design",
+    "subcategory": "UI/UX",
+    "rating": 4.8,
+    "reviewsCount": 5678,
+    "price": 69.99,
+    "originalPrice": 129.99,
+    "language": "en",
+    "level": "Intermediate",
+    "duration": "28.5 hours",
+    "lectures": 320,
+    "studentsEnrolled": 67000,
+    "lastUpdated": "2024-02-15",
+    "image": "/assets/ui-ux-design-course.png",
+    "thumbnail": "/assets/ui-ux-design-course.png",
+    "description": "Learn UI/UX design from scratch. Master Figma, design systems, user research, and create beautiful, functional interfaces.",
+    "whatYouWillLearn": [
+      "Master Figma and design tools",
+      "Create beautiful user interfaces",
+      "Conduct user research and testing",
+      "Build design systems and component libraries",
+      "Create interactive prototypes",
+      "Understand user psychology and behavior"
+    ],
+    "requirements": [
+      "A computer with Figma (free) installed",
+      "Basic computer skills",
+      "No prior design experience needed"
+    ],
+    "targetAudience": [
+      "Beginners who want to learn UI/UX design",
+      "Designers who want to improve their skills",
+      "Developers who want to understand design",
+      "Anyone interested in creating better user experiences"
+    ],
+    "curriculum": [
+      {
+        "section": "Design Fundamentals",
+        "lectures": [
+          { "title": "Introduction to UI/UX", "duration": "15:30", "type": "video" },
+          { "title": "Design Principles", "duration": "22:45", "type": "video" },
+          { "title": "Color Theory", "duration": "18:20", "type": "video" },
+          { "title": "Typography", "duration": "20:15", "type": "video" }
+        ]
+      },
+      {
+        "section": "Figma Mastery",
+        "lectures": [
+          { "title": "Figma Interface", "duration": "25:30", "type": "video" },
+          { "title": "Components and Styles", "duration": "30:15", "type": "video" },
+          { "title": "Prototyping", "duration": "28:45", "type": "video" },
+          { "title": "Design Systems", "duration": "35:20", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Design files",
+      "Closed captions"
+    ],
+    "tags": ["ui", "ux", "design", "figma", "prototyping", "user research"],
+    "isBestseller": false,
+    "isFeatured": true,
+    "isNew": false,
+    "discountPercentage": 46
+  },
+  {
+    "id": "c6",
+    "title": "AWS Cloud Practitioner Certification",
+    "instructor": "Stephane Maarek",
+    "instructorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "category": "Cloud Computing",
+    "subcategory": "AWS",
+    "rating": 4.7,
+    "reviewsCount": 12345,
+    "price": 19.99,
+    "originalPrice": 89.99,
+    "language": "en",
+    "level": "Beginner",
+    "duration": "18.5 hours",
+    "lectures": 180,
+    "studentsEnrolled": 95000,
+    "lastUpdated": "2024-01-30",
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=400&h=250&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=300&h=200&fit=crop",
+    "description": "Pass the AWS Cloud Practitioner exam with confidence! Learn AWS fundamentals and prepare for the certification exam.",
+    "whatYouWillLearn": [
+      "Understand AWS Cloud concepts",
+      "Learn about AWS services and their use cases",
+      "Understand AWS pricing and billing",
+      "Learn about AWS security and compliance",
+      "Prepare for the AWS Cloud Practitioner exam",
+      "Get hands-on experience with AWS console"
+    ],
+    "requirements": [
+      "No prior AWS experience required",
+      "Basic IT knowledge helpful but not required",
+      "A computer with internet access"
+    ],
+    "targetAudience": [
+      "IT professionals new to AWS",
+      "Students preparing for AWS certification",
+      "Anyone interested in cloud computing",
+      "Developers and system administrators"
+    ],
+    "curriculum": [
+      {
+        "section": "AWS Fundamentals",
+        "lectures": [
+          { "title": "Introduction to AWS", "duration": "12:30", "type": "video" },
+          { "title": "AWS Global Infrastructure", "duration": "15:45", "type": "video" },
+          { "title": "AWS Services Overview", "duration": "20:15", "type": "video" },
+          { "title": "AWS Pricing and Billing", "duration": "18:30", "type": "video" }
+        ]
+      },
+      {
+        "section": "Core AWS Services",
+        "lectures": [
+          { "title": "EC2 - Elastic Compute Cloud", "duration": "25:20", "type": "video" },
+          { "title": "S3 - Simple Storage Service", "duration": "22:45", "type": "video" },
+          { "title": "VPC - Virtual Private Cloud", "duration": "28:15", "type": "video" },
+          { "title": "IAM - Identity and Access Management", "duration": "24:30", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Practice exams",
+      "Closed captions"
+    ],
+    "tags": ["aws", "cloud", "certification", "cloud practitioner", "amazon web services"],
+    "isBestseller": true,
+    "isFeatured": false,
+    "isNew": false,
+    "discountPercentage": 78
+  },
+  {
+    "id": "c7",
+    "title": "Flutter & Dart - Complete Guide 2024",
+    "instructor": "Max Schwarzmüller",
+    "instructorAvatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "category": "Mobile Development",
+    "subcategory": "Flutter",
+    "rating": 4.8,
+    "reviewsCount": 9876,
+    "price": 84.99,
+    "originalPrice": 179.99,
+    "language": "en",
+    "level": "All Levels",
+    "duration": "52.5 hours",
+    "lectures": 450,
+    "studentsEnrolled": 78000,
+    "lastUpdated": "2024-02-20",
+    "image": "/assets/flutter and dart.png",
+    "thumbnail": "/assets/flutter and dart.png",
+    "description": "Learn Flutter and Dart to build beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+    "whatYouWillLearn": [
+      "Build beautiful, fast and native-quality apps with Flutter",
+      "Become a fully-fledged Flutter developer",
+      "Build iOS and Android apps with just one codebase",
+      "Build a portfolio of beautiful Flutter apps to impress any recruiter",
+      "Understand all the fundamental concepts of Flutter development",
+      "Become proficient in one of the fastest growing technologies"
+    ],
+    "requirements": [
+      "Basic programming language knowledge (concepts like variables, loops, functions)",
+      "A computer: Windows, Mac or Linux",
+      "You don't need to know Flutter or Dart - this course starts from scratch",
+      "You don't need to know iOS (Swift/ObjectiveC) or Android (Java/Kotlin)"
+    ],
+    "targetAudience": [
+      "Beginner and intermediate developers",
+      "Anyone who wants to build mobile apps",
+      "Developers who want to learn cross-platform development",
+      "Anyone interested in Flutter and Dart"
+    ],
+    "curriculum": [
+      {
+        "section": "Dart Fundamentals",
+        "lectures": [
+          { "title": "Introduction to Dart", "duration": "10:15", "type": "video" },
+          { "title": "Variables and Data Types", "duration": "15:30", "type": "video" },
+          { "title": "Functions and Classes", "duration": "20:45", "type": "video" },
+          { "title": "Async Programming", "duration": "18:20", "type": "video" }
+        ]
+      },
+      {
+        "section": "Flutter Basics",
+        "lectures": [
+          { "title": "Flutter Setup", "duration": "12:30", "type": "video" },
+          { "title": "Widgets and Layout", "duration": "25:15", "type": "video" },
+          { "title": "State Management", "duration": "30:45", "type": "video" },
+          { "title": "Navigation and Routing", "duration": "22:10", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Assignments",
+      "Closed captions"
+    ],
+    "tags": ["flutter", "dart", "mobile development", "cross-platform", "ios", "android"],
+    "isBestseller": true,
+    "isFeatured": true,
+    "isNew": false,
+    "discountPercentage": 53
+  },
+  {
+    "id": "c8",
+    "title": "Digital Marketing Masterclass",
+    "instructor": "Phil Ebiner",
+    "instructorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "category": "Marketing",
+    "subcategory": "Digital Marketing",
+    "rating": 4.6,
+    "reviewsCount": 4567,
+    "price": 59.99,
+    "originalPrice": 119.99,
+    "language": "en",
+    "level": "All Levels",
+    "duration": "32.5 hours",
+    "lectures": 380,
+    "studentsEnrolled": 55000,
+    "lastUpdated": "2024-01-25",
+    "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400&h=250&fit=crop",
+    "thumbnail": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=300&h=200&fit=crop",
+    "description": "Learn digital marketing from scratch. Master SEO, social media marketing, email marketing, and create successful marketing campaigns.",
+    "whatYouWillLearn": [
+      "Create effective digital marketing strategies",
+      "Master SEO and content marketing",
+      "Run successful social media campaigns",
+      "Build email marketing funnels",
+      "Analyze marketing performance",
+      "Create compelling marketing content"
+    ],
+    "requirements": [
+      "No prior marketing experience needed",
+      "Basic computer skills",
+      "Access to social media accounts"
+    ],
+    "targetAudience": [
+      "Business owners and entrepreneurs",
+      "Marketing professionals",
+      "Students interested in marketing",
+      "Anyone wanting to learn digital marketing"
+    ],
+    "curriculum": [
+      {
+        "section": "Marketing Fundamentals",
+        "lectures": [
+          { "title": "Introduction to Digital Marketing", "duration": "15:30", "type": "video" },
+          { "title": "Marketing Strategy", "duration": "20:45", "type": "video" },
+          { "title": "Target Audience Analysis", "duration": "18:20", "type": "video" },
+          { "title": "Brand Building", "duration": "22:15", "type": "video" }
+        ]
+      },
+      {
+        "section": "Digital Channels",
+        "lectures": [
+          { "title": "SEO Fundamentals", "duration": "25:30", "type": "video" },
+          { "title": "Social Media Marketing", "duration": "30:15", "type": "video" },
+          { "title": "Email Marketing", "duration": "28:45", "type": "video" },
+          { "title": "Content Marketing", "duration": "24:20", "type": "video" }
+        ]
+      }
+    ],
+    "features": [
+      "Certificate of completion",
+      "Lifetime access",
+      "Access on mobile and TV",
+      "Downloadable resources",
+      "Templates and tools",
+      "Closed captions"
+    ],
+    "tags": ["digital marketing", "seo", "social media", "email marketing", "content marketing"],
+    "isBestseller": false,
+    "isFeatured": false,
+    "isNew": false,
+    "discountPercentage": 50
+  }
+]

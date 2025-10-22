@@ -1,0 +1,327 @@
+[
+  {
+    "id": "web-development",
+    "name": "Web Development",
+    "nameAr": "تطوير الويب",
+    "description": "Learn to build modern websites and web applications",
+    "descriptionAr": "تعلم بناء المواقع والتطبيقات الحديثة",
+    "icon": "code",
+    "color": "blue",
+    "courseCount": 1250,
+    "subcategories": [
+      "Frontend Development",
+      "Backend Development",
+      "Full Stack Development",
+      "React",
+      "Vue.js",
+      "Angular",
+      "Node.js",
+      "PHP",
+      "Python Web",
+      "Ruby on Rails"
+    ]
+  },
+  {
+    "id": "mobile-development",
+    "name": "Mobile Development",
+    "nameAr": "تطوير الهواتف",
+    "description": "Build iOS and Android apps with modern frameworks",
+    "descriptionAr": "بناء تطبيقات iOS و Android بإطارات العمل الحديثة",
+    "icon": "smartphone",
+    "color": "green",
+    "courseCount": 890,
+    "subcategories": [
+      "iOS Development",
+      "Android Development",
+      "React Native",
+      "Flutter",
+      "Xamarin",
+      "Swift",
+      "Kotlin",
+      "Cross-platform"
+    ]
+  },
+  {
+    "id": "data-science",
+    "name": "Data Science",
+    "nameAr": "علم البيانات",
+    "description": "Master data analysis, machine learning, and AI",
+    "descriptionAr": "إتقان تحليل البيانات وتعلم الآلة والذكاء الاصطناعي",
+    "icon": "database",
+    "color": "purple",
+    "courseCount": 650,
+    "subcategories": [
+      "Machine Learning",
+      "Deep Learning",
+      "Data Analysis",
+      "Statistics",
+      "Python for Data Science",
+      "R Programming",
+      "SQL",
+      "Big Data",
+      "Data Visualization"
+    ]
+  },
+  {
+    "id": "artificial-intelligence",
+    "name": "Artificial Intelligence",
+    "nameAr": "الذكاء الاصطناعي",
+    "description": "Explore AI, neural networks, and intelligent systems",
+    "descriptionAr": "استكشف الذكاء الاصطناعي والشبكات العصبية والأنظمة الذكية",
+    "icon": "brain",
+    "color": "indigo",
+    "courseCount": 420,
+    "subcategories": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing",
+      "Robotics",
+      "AI Ethics",
+      "TensorFlow",
+      "PyTorch",
+      "OpenAI"
+    ]
+  },
+  {
+    "id": "cybersecurity",
+    "name": "Cybersecurity",
+    "nameAr": "الأمن السيبراني",
+    "description": "Learn to protect systems and data from cyber threats",
+    "descriptionAr": "تعلم حماية الأنظمة والبيانات من التهديدات السيبرانية",
+    "icon": "shield",
+    "color": "red",
+    "courseCount": 380,
+    "subcategories": [
+      "Ethical Hacking",
+      "Network Security",
+      "Web Security",
+      "Cryptography",
+      "Penetration Testing",
+      "Security Analysis",
+      "Incident Response",
+      "Compliance"
+    ]
+  },
+  {
+    "id": "cloud-computing",
+    "name": "Cloud Computing",
+    "nameAr": "الحوسبة السحابية",
+    "description": "Master cloud platforms and distributed systems",
+    "descriptionAr": "إتقان منصات السحابة والأنظمة الموزعة",
+    "icon": "cloud",
+    "color": "sky",
+    "courseCount": 520,
+    "subcategories": [
+      "AWS",
+      "Azure",
+      "Google Cloud",
+      "Docker",
+      "Kubernetes",
+      "Serverless",
+      "DevOps",
+      "Microservices"
+    ]
+  },
+  {
+    "id": "design",
+    "name": "Design",
+    "nameAr": "التصميم",
+    "description": "Create beautiful and functional user experiences",
+    "descriptionAr": "إنشاء تجارب مستخدم جميلة وعملية",
+    "icon": "palette",
+    "color": "pink",
+    "courseCount": 750,
+    "subcategories": [
+      "UI/UX Design",
+      "Graphic Design",
+      "Web Design",
+      "Logo Design",
+      "Typography",
+      "Color Theory",
+      "Figma",
+      "Adobe Creative Suite"
+    ]
+  },
+  {
+    "id": "business",
+    "name": "Business",
+    "nameAr": "الأعمال",
+    "description": "Develop business skills and entrepreneurial mindset",
+    "descriptionAr": "تطوير المهارات التجارية والعقلية الريادية",
+    "icon": "briefcase",
+    "color": "yellow",
+    "courseCount": 680,
+    "subcategories": [
+      "Entrepreneurship",
+      "Management",
+      "Finance",
+      "Marketing",
+      "Strategy",
+      "Leadership",
+      "Project Management",
+      "Business Analysis"
+    ]
+  },
+  {
+    "id": "marketing",
+    "name": "Marketing",
+    "nameAr": "التسويق",
+    "description": "Learn digital marketing and growth strategies",
+    "descriptionAr": "تعلم التسويق الرقمي واستراتيجيات النمو",
+    "icon": "trending-up",
+    "color": "orange",
+    "courseCount": 450,
+    "subcategories": [
+      "Digital Marketing",
+      "Social Media Marketing",
+      "Content Marketing",
+      "SEO",
+      "Email Marketing",
+      "PPC Advertising",
+      "Analytics",
+      "Brand Management"
+    ]
+  },
+  {
+    "id": "finance",
+    "name": "Finance",
+    "nameAr": "التمويل",
+    "description": "Master financial concepts and investment strategies",
+    "descriptionAr": "إتقان المفاهيم المالية واستراتيجيات الاستثمار",
+    "icon": "dollar-sign",
+    "color": "emerald",
+    "courseCount": 320,
+    "subcategories": [
+      "Personal Finance",
+      "Investment",
+      "Trading",
+      "Cryptocurrency",
+      "Financial Analysis",
+      "Accounting",
+      "Risk Management",
+      "Corporate Finance"
+    ]
+  },
+  {
+    "id": "health",
+    "name": "Health & Fitness",
+    "nameAr": "الصحة واللياقة",
+    "description": "Improve your health and fitness with expert guidance",
+    "descriptionAr": "حسّن صحتك ولياقتك مع إرشادات الخبراء",
+    "icon": "heart",
+    "color": "rose",
+    "courseCount": 280,
+    "subcategories": [
+      "Fitness Training",
+      "Nutrition",
+      "Yoga",
+      "Meditation",
+      "Mental Health",
+      "Sports",
+      "Wellness",
+      "Physical Therapy"
+    ]
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "nameAr": "الموسيقى",
+    "description": "Learn music theory, production, and performance",
+    "descriptionAr": "تعلم نظرية الموسيقى والإنتاج والأداء",
+    "icon": "music",
+    "color": "violet",
+    "courseCount": 190,
+    "subcategories": [
+      "Music Theory",
+      "Guitar",
+      "Piano",
+      "Music Production",
+      "Singing",
+      "Composition",
+      "Audio Engineering",
+      "DJ Skills"
+    ]
+  },
+  {
+    "id": "photography",
+    "name": "Photography",
+    "nameAr": "التصوير",
+    "description": "Master photography techniques and editing",
+    "descriptionAr": "إتقان تقنيات التصوير والتحرير",
+    "icon": "camera",
+    "color": "slate",
+    "courseCount": 340,
+    "subcategories": [
+      "Digital Photography",
+      "Portrait Photography",
+      "Landscape Photography",
+      "Photo Editing",
+      "Lightroom",
+      "Photoshop",
+      "Videography",
+      "Drone Photography"
+    ]
+  },
+  {
+    "id": "lifestyle",
+    "name": "Lifestyle",
+    "nameAr": "نمط الحياة",
+    "description": "Enhance your personal and professional life",
+    "descriptionAr": "حسّن حياتك الشخصية والمهنية",
+    "icon": "sun",
+    "color": "amber",
+    "courseCount": 210,
+    "subcategories": [
+      "Personal Development",
+      "Productivity",
+      "Time Management",
+      "Communication",
+      "Creativity",
+      "Mindfulness",
+      "Relationships",
+      "Career Development"
+    ]
+  },
+  {
+    "id": "academic",
+    "name": "Academic",
+    "nameAr": "أكاديمي",
+    "description": "Study academic subjects and prepare for exams",
+    "descriptionAr": "ادرس المواد الأكاديمية واستعد للامتحانات",
+    "icon": "graduation-cap",
+    "color": "teal",
+    "courseCount": 180,
+    "subcategories": [
+      "Mathematics",
+      "Science",
+      "History",
+      "Literature",
+      "Languages",
+      "Test Preparation",
+      "Research Methods",
+      "Academic Writing"
+    ]
+  },
+  {
+    "id": "language",
+    "name": "Language Learning",
+    "nameAr": "تعلم اللغات",
+    "description": "Learn new languages and improve communication",
+    "descriptionAr": "تعلم لغات جديدة وحسّن التواصل",
+    "icon": "globe",
+    "color": "cyan",
+    "courseCount": 290,
+    "subcategories": [
+      "English",
+      "Spanish",
+      "French",
+      "German",
+      "Chinese",
+      "Japanese",
+      "Arabic",
+      "Portuguese",
+      "Italian",
+      "Korean"
+    ]
+  }
+] 
